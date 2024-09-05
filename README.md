@@ -71,10 +71,7 @@ Insights Extraction: The script provides insights on:
 
 The top-performing product.
 The region with the highest sales.
-Screenshots
-Bar Chart: Total Sales by Product
 
-Line Chart: Monthly Sales Trends
 
 Technologies Used
 Python: Main programming language.
